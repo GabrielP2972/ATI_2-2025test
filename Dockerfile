@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:latest
 
 RUN apt-get update && apt-get install -y \
     apache2 \
@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y \
     && apt-get clean
 
 RUN rm -rf /var/www/html
-RUN git clone https://github.com/GabrielP2972/ATI_2-2025.git /var/www/html
+RUN git clone https://github.com/GabrielP2972/ATI_2-2025test.git /var/www/html
 
 # Ajuste de permisos corregido
 RUN chown -R www-data:www-data /var/www/html
