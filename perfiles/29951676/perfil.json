@@ -1,0 +1,13 @@
+{	
+	"nombre":"Gabriel Alejandro Padilla Adames",
+	"descripcion":"Soy estudiante de Ingeniería de Computación en la Universidad Central de Venezuela. Me apasiona el desarrollo de software, la inteligencia artificial y los videojuegos. Estoy siempre buscando aprender nuevas tecnologías y mejorar mis habilidades en programación.",
+	"color": "Verde",
+	"libro": ["Juego de Tronos"],
+	"musica": ["Regueton"],
+	"video_juego": ["Yu-Gi-Oh!"],
+	"lenguajes": ["c++!", "java", "python"],
+	"email":"gabo.dcm07@gmail.com",
+	"ci": "29951676",
+	"genero":"masculino",
+	"fecha_nacimiento":"07/09/2002"
+}

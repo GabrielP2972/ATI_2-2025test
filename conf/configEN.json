@@ -1,0 +1,18 @@
+{
+	"sitio": ["ITA","[UCV]","2025-2"],
+	"home": "Home",
+	"login": "Login",
+	"copyRight":"Copyright © 2025 Computer school - ITA. All rights reserved",
+	"nombre":"Name",
+	"descripcion":"",
+	"color":"My favorite color is",
+	"libro":"My favorite book is",
+	"musica":"My favorite music style",
+	"video_juego":"Favorite video games",
+	"lenguajes":"Languages learned",
+	"email":"please send me a email to [email], if you need to contact me",
+	"buscar": "Search",
+	"saludo": "Hi",
+	"noResultados": "There are no students to show",
+	"noCoincidencias": "There are no students with this in their name: [query]"
+}

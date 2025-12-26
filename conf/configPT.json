@@ -1,0 +1,18 @@
+{
+	"sitio": ["ATI","[UCV]","2025-2"],
+	"home": "Início",
+	"login": "Sessão",
+	"copyRight":"Copyright © 2025 Escola de informática - ATI. Todos os direitos reservados",
+	"nombre":"Nome",
+	"descripcion":"",
+	"color":"Minha cor favorita é",
+	"libro":"Meu livro favorito é",
+	"musica":"Meu estilo de música favorita",
+	"video_juego":"Jogos de vídeo favoritos",
+	"lenguajes":"Linguagems aprendidas",
+	"email":"Se precisar me contatar pode me escrever em [email]",
+	"buscar": "Procurar",
+	"saludo": "Olá",
+	"noResultados": "Não há estudantes para mostrar",
+	"noCoincidencias": "Não há alunos que tenham em seu nome: [query]"
+}

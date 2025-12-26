@@ -1,0 +1,25 @@
+# Archivos de git
+.git/
+.gitignore
+
+# Archivos de desarrollo
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs y temporales
+*.log
+tmp/
+temp/
+
+# Archivos de datos grandes
+*.tar
+*.zip
+*.gz
+
+# Entornos virtuales de Python
+venv/
+env/
+__pycache__/
+*.pyc

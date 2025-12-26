@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATI[UCV] 2025-2 - SPA</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="icon" href="/static/favicon.ico">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <span id="nav-brand">ATI[UCV] 2025-2</span>
+                </li>
+                <li id="saludo"></li>
+                <li>
+                    <form class="search-form" id="search-form">
+                        <input id="nombre" type="text" placeholder="Nombre...">
+                        <button id="buscar" type="submit">Buscar</button>
+                    </form>
+                </li>
+                <li>
+                    <select id="lang-select">
+                        <option value="ES" selected>Español</option>
+                        <option value="EN">English</option>
+                        <option value="PT">Português</option>
+                    </select>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main id="main-content">
+        <!-- Contenido dinámico cargado por JavaScript -->
+        <div id="loading">Cargando...</div>
+    </main>
+    
+    <footer>
+        <p id="copyRight">Copyright © 2025 Escuela de computación - ATI. Todos los derechos reservados</p>
+    </footer>
+    
+    <script src="/js/spa.js"></script>
+</body>
+</html>
